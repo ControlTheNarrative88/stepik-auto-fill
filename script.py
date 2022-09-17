@@ -7,7 +7,7 @@ email = "test.user.05@inbox.ru"                                                 
                                                                                       # надо быть записанным на курс https://stepik.org/course/575/syllabus?auth=registration
 password = "testpassword0505"
 stepik_url = "https://stepik.org/catalog"
-task_link = "https://stepik.org/lesson/236205/step/7?auth=registration&unit=208637"   # валидная сылка на задание
+task_link = "https://stepik.org/lesson/236205/step/7?auth=registration&unit=208637"   # валидная ссылка на задание
 answer = "text_to_be_present_in_element"                                              # любая str, но лучше с правильным ответом))
 
 browser = webdriver.Chrome()
