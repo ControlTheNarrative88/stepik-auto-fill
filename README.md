@@ -1,1 +1,1 @@
-# stepik-auto-fill
+# Stepik auto-fill
